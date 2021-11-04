@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+
+# big files
+evil-log.log
+visit-map.json
